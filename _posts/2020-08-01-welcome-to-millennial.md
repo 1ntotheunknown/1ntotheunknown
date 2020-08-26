@@ -7,13 +7,15 @@ tags: [documentation,sample]
 image: zmiana.png
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+Moja transformacja nie miała by miejsca gdyby nie feralna impreza, której powiklania dały mi bardzo silny impuls do działania. W skrócie po zakrapianej alkoholem imprezie, obudziłem sie na pace ciezarówki, zamknięty od zewnątrz, bez większości wartościowych rzeczy w tym okularów. I to był dopiero początek moich kłopotów... Wiecej informacji o moich najdziwniejszych przygodach w zakładce " My biggest fuckups" 
 
 ## Getting Started
 
-[Getting Started]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}): getting started with installing Millennial, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+Jeden z najwiekszych kacy moralnych mojego życia. Kilka razy wcześniej w życiu zdażyło mi się budzić bez wartościowych rzeczy , poobijanym i z ogromnym minusem na koncie. Ale nigdy w tak słabym stanie psychicznym jak tym razem. Najbardziej dobił mnie fakt, że zgubiłem okulary, które pare tygodni wcześniej dostałem od mojego brata na urodziny. Te okulary były mega drogie.. Wiec wiedziałem, że w niedalekiej przyszlości od tego poranka czeka mnie pytanie " Czemu nie nosisz tych nowych okularów? ". Te wszystkie rzeczy tak mnie dobbiły, że powiedziałem sobie dość. Wiedziałem, że jeżeli nie się nie zacznę zmieniać, to będe tylko egzystować. 
 
-## Example Content
+W wieku 28 lat, miałem dużą nadwagę, brak pracy, brak dziewczyny i niesamowitą umiejętność do zawodzenia ludzi. 
+
+## First exercises
 
 [Text and Formatting]({{ site.github.url }}{% post_url 2016-09-09-text-formatting %})
 
