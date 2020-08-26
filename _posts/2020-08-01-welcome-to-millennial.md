@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My Body Transformation!"
-author: "Paul Le"
+author: "T"
 categories: documentation
 tags: [documentation,sample]
 image: zmiana.png
