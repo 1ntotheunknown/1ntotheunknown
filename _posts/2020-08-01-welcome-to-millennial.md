@@ -7,36 +7,36 @@ tags: [documentation,sample]
 image: zmiana.png
 ---
 
-Moja transformacja nie miała by miejsca gdyby nie feralna impreza, której powiklania dały mi bardzo silny impuls do działania. W skrócie po zakrapianej alkoholem imprezie, obudziłem sie na pace ciezarówki, zamknięty od zewnątrz, bez większości wartościowych rzeczy w tym okularów. I to był dopiero początek moich kłopotów... Wiecej informacji o moich najdziwniejszych przygodach w zakładce " My biggest fuckups" 
+My transformation would not have taken place if it were not for the event, the complications of which gave me a very strong impulse to act. In short, after an alcohol-drenched party, I woke up on the back of a truck, locked from the outside, without most of the valuables, including glasses. And that was just the beginning of my troubles ... More information about my weirdest adventures in "My biggest f**kups"
 
 ## Getting Started
 
-Jeden z najwiekszych kacy moralnych mojego życia. Kilka razy wcześniej w życiu zdażyło mi się budzić bez wartościowych rzeczy , poobijanym i z ogromnym minusem na koncie. Ale nigdy w tak słabym stanie psychicznym jak tym razem. Najbardziej dobił mnie fakt, że zgubiłem okulary, które pare tygodni wcześniej dostałem od mojego brata na urodziny. Te okulary były mega drogie.. Wiec wiedziałem, że w niedalekiej przyszlości od tego poranka czeka mnie pytanie " Czemu nie nosisz tych nowych okularów? ". Te wszystkie rzeczy tak mnie dobbiły, że powiedziałem sobie dość. Wiedziałem, że jeżeli nie się nie zacznę zmieniać, to będe tylko egzystować i nie poradzę sobie w życiu. 
+One of the biggest moral kicks in my life. A few times earlier, I had woken up without valuables, battered and with a huge downside. But never in such a weak mental state as this time. The fact that I lost the glasses that my brother had given me for my birthday a few weeks earlier was the one that struck me the most. These glasses were very expensive .. So I knew that in the near future, starting this morning, I would be asked "Why aren't you wearing these new glasses?" All these things pissed me off so much that I said to myself ENOUGH. I knew that if I didn't start changing, I would only exist instead of living. I also knew, that if I will not change I will not cope in life... 
 
-W wieku 28 lat, miałem dużą nadwagę, brak pracy, brak dziewczyny i niesamowitą umiejętność do zawodzenia ludzi. 
+At 28, I was very overweight, no job, no girlfriend, and an amazing ability to disappoint people.
 
 ## First exercises
 
-Nie miałem bladego pojęcia od czego zacząć. Zacząłem więc robić pompki. 15 pompek, tyle udało mi się zrobić na początku..  Po kilku dniach dodałem do tego bieganie. Wcześniej najdłuższy dystans jaki udało mi sie przebiec to było 5 km w tempie 8 min/km, wiec z predkoscia praktycznie chodzenia. 
+I had no idea where to start. So I started doing push-ups. 15 push-ups, that's what I managed to do at the beginning .. After a few days, I added running to it. Previously, the longest distance I could run was 5 km at a pace of 8 min / km, so with practically walking speed.
 
-Ztwierdziłem, że trzeba wrócić do tego biegania. Natomiast zrzucenie wagi to jeden z powodów, dla których chiałem akurat biegać, drugi jest taki, że nie cierpie biegać i chciałem sie ukarać. Zacząłem biegać dystanse nie mniejsze niż 5 km. Kiedy byłem zmęczony mówiłem sam do siebie, do swojej głowy, jesteś zmęczony? Nie chcesz biec dalej, a ja zrobie Ci na złość i pobiegne dalej. Za to że wyłączyłeś mi mózgu świadomość podczas ostatniej imprezy teraz będziesz cierpieć. Tak więc bieganie było i właściwie dalej jest sposobem, żeby się ukarać za tamte wydarzenia i zawsze o tym pamiętać...
+I decided to get back to running. Losing weight, on the other hand, is one of the reasons I wanted to run, the other reason is that I hate running and I wanted to punish myself. I started running distances no less than 5 km. When I was tired I was talking to myself, I was exactly saying to my head: are you tired? Don't you want to run any further? I won't let you rest and I will run on. You will suffer now for turning off my brain's consciousness at the last party. So running was and actually still is a way to punish myself for those events and to always remember it ...
 
 
 ## Starting my own Business
 
-Zaczynając swoją transformację wiedziałem, że moje ciało to nie jest jedyna rzecz, która potrzebuje zmian. Cały czas nie miałem pracy ani perspektyw. Pare miesięcy wstecz, byłem uczestnikiem inkubatora startupów. Poświęciłem na niego 6 miesięcy i w tym czasie nie udało się założyć firmy. Mielismy team, mielismy pomysl i mielismy dogadanych klientów na nasz prototyp, natomiast nasze negocjacje z inkubatorem o warunki założenia firmy sie nie udały. Wymagania i warunki jakie chcieli abyśmy zawarli w umowie, czynily by z nas niewolników na okres 4 najblizszych lat i wlasciwie w kazdej chwili mogli by nas pozbawic udzialow w naszej wlasnej firmie. 
+Starting my transformation, I knew that my body wasn't the only thing that needed change. All the time I had no job and no prospects. A few months back, I was a participant in a startup incubator. I spent 6 months on it and I didn't manage to start a business during that time. We had a team, we had an idea and we had an agreement with clients for our prototype, while our negotiations with the incubator on the terms of establishing the company failed. The requirements and conditions that they wanted us to include in the contract would make us slaves for the next 4 years and in fact they could deprive us of shares in our own company at any time.
 
-Natomiast był jeden pozytyw z tego wszystkiego, poznałem kilka osob. Zdzwonilismy sie online, zrobilismy brainstorming, kazdy dal kilka pomyslow na biznes, wybralismy jeden i zaczelismy dzialać. Jest to nieustanny proces uczenia się. I poświęcania wielu godzin na wykonywanie wczesniej ustalonych celow. Natomiast mam nadzieje ze będzie warto. Tak czy siek spróbuje, gorzej juz nie bedzie.. Cała przygoda z własnym biznesem opisana krok po kroku jest w zakładce " My business story " 
+However, there was one positive thing about it all. I met a few people. We did an online meeting, we did brainstorming, everyone gave a few ideas for a business, we chose one and started working. It is a continuous learning process. And spending hours and hours on achieving pre-defined goals. However, I hope it will be worth it. I'll try anyway. It won't be worse than it already is .. The whole adventure with your own business is described step by step in the "My business story" tab.
 
 ## My Big Dream and Bucket List
 
-Wielkim celem, o którym nie moge przestać myśleć jest wyruszenie w podróż po całej Europie mini vanem. 
-Natomiast, żeby to miało miejsce to musi się na to złożyć wiele czynników. Po pierwsze biznes, który zacząłem w tym roku musi zacząć zarabiać, abym takiego vana mógł kupić i pozwolić sobie na taka podróż. To jest zdecydowanie mój największy cl, ponieważ to wszystko co robie, robie aby być szczęśliwym. Nie wiem czy faktycznie to da mi szczęście, ale póki nie sprobuje to sie nei dowiem.. Wiecej info w zakładce " The BiG Journey " 
+The big goal that I can't help but think of is to travel across Europe in a mini van.
+However, for it to happen, you need a lot of money and work. First of all, the business that I started this year needs to start earning money so that I can buy such a van and afford such a trip. This is by far my greatest goal, because all I do is to be happy. I don't know if it really will give me happiness, but until I try it, I won't find out .. More info in the "The BiG Journey" tab
 
-Istnieje też wiele mniejszych bardziej przyziemnych celów na mojej bucket liscie. I bede skrupulatnie do nich dazyc. Natomiast do tego tez, kilka poprzednich krokow musi sie udać. Ten najważniejszy to właśnie biznes, bo bez pieniedzy, to ja sobvie moge co najwyzej powymyslac kolejne rzeczy, ktore chcialbym zrobic. 
+There are also many smaller more down-to-earth targets on my bucket list. And I will be meticulous in pursuing them. And for that too, the few previous steps must be successful. The most important one is business, because without money, I can only come up with new things that I would like to do.
 
 ## People That Inspire Me
 
-Bardzo ważnym punktem programu w mojej transformacji są ludzie, którzy mnie otaczaja i inspirują. Nie posiadam, żadnych inspiracji z internetu, wszyscy ludzie, ktorych opisuje w tej zakladce na blogu, to osoby, ktore znam i na własne oczy widze ich codzienne wysilki. To, że mam w to wglad dodaje mi skrzydel kiedy mi sie nie chce. 
+The people who surround me and inspire me are a very important point in my transformation. I do not have any inspiration from the Internet, all the people I describe in this tab on the blog are people I know and see their daily efforts with my own eyes. The fact that I have insight into it gives me wings when I don't feel like doing anything.
 
-# Byle krok po kroku
+# So... Lets begin!
