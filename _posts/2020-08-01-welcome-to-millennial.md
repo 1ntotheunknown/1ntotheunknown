@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My Body Transformation!"
+title: "What motivated me to My Body and Business Transformation!"
 author: "T"
 categories: documentation
 tags: [documentation,sample]
@@ -11,17 +11,22 @@ Moja transformacja nie miała by miejsca gdyby nie feralna impreza, której powi
 
 ## Getting Started
 
-Jeden z najwiekszych kacy moralnych mojego życia. Kilka razy wcześniej w życiu zdażyło mi się budzić bez wartościowych rzeczy , poobijanym i z ogromnym minusem na koncie. Ale nigdy w tak słabym stanie psychicznym jak tym razem. Najbardziej dobił mnie fakt, że zgubiłem okulary, które pare tygodni wcześniej dostałem od mojego brata na urodziny. Te okulary były mega drogie.. Wiec wiedziałem, że w niedalekiej przyszlości od tego poranka czeka mnie pytanie " Czemu nie nosisz tych nowych okularów? ". Te wszystkie rzeczy tak mnie dobbiły, że powiedziałem sobie dość. Wiedziałem, że jeżeli nie się nie zacznę zmieniać, to będe tylko egzystować. 
+Jeden z najwiekszych kacy moralnych mojego życia. Kilka razy wcześniej w życiu zdażyło mi się budzić bez wartościowych rzeczy , poobijanym i z ogromnym minusem na koncie. Ale nigdy w tak słabym stanie psychicznym jak tym razem. Najbardziej dobił mnie fakt, że zgubiłem okulary, które pare tygodni wcześniej dostałem od mojego brata na urodziny. Te okulary były mega drogie.. Wiec wiedziałem, że w niedalekiej przyszlości od tego poranka czeka mnie pytanie " Czemu nie nosisz tych nowych okularów? ". Te wszystkie rzeczy tak mnie dobbiły, że powiedziałem sobie dość. Wiedziałem, że jeżeli nie się nie zacznę zmieniać, to będe tylko egzystować i nie poradzę sobie w życiu. 
 
 W wieku 28 lat, miałem dużą nadwagę, brak pracy, brak dziewczyny i niesamowitą umiejętność do zawodzenia ludzi. 
 
 ## First exercises
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2016-09-09-text-formatting %})
+Nie miałem bladego pojęcia od czego zacząć. Zacząłem więc robić pompki. 15 pompek, tyle udało mi się zrobić na początku..  Po kilku dniach dodałem do tego bieganie. Wcześniej najdłuższy dystans jaki udało mi sie przebiec to było 5 km w tempie 8 min/km, wiec z predkoscia praktycznie chodzenia. 
 
-## Questions?
+Ztwierdziłem, że trzeba wrócić do tego biegania. Natomiast zrzucenie wagi to jeden z powodów, dla których chiałem akurat biegać, drugi jest taki, że nie cierpie biegać i chciałem sie ukarać. Zacząłem biegać dystanse nie mniejsze niż 5 km. Kiedy byłem zmęczony mówiłem sam do siebie, do swojej głowy, jesteś zmęczony? Nie chcesz biec dalej, a ja zrobie Ci na złość i pobiegne dalej. Za to że wyłączyłeś mi mózgu świadomość podczas ostatniej imprezy teraz będziesz cierpieć. Tak więc bieganie było i właściwie dalej jest sposobem, żeby się ukarać za tamte wydarzenia i zawsze o tym pamiętać...
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%20question%20about%20Millennial;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
+
+## Starting my own Business
+
+Zaczynając swoją transformację wiedziałem, że moje ciało to nie jest jedyna rzecz, która potrzebuje zmian. Cały czas nie miałem pracy ani perspektyw. Pare miesięcy wstecz, byłem uczestnikiem inkubatora startupów. Poświęciłem na niego 6 miesięcy i w tym czasie nie udało się założyć firmy. Mielismy team, mielismy pomysl i mielismy dogadanych klientów na nasz prototyp, natomiast nasze negocjacje z inkubatorem o warunki założenia firmy sie nie udały. Wymagania i warunki jakie chcieli abyśmy zawarli w umowie, czynily by z nas niewolników na okres 4 najblizszych lat i wlasciwie w kazdej chwili mogli by nas pozbawic udzialow w naszej wlasnej firmie. 
+
+Natomiast był jeden pozytyw z tego wszystkiego, poznałem kilka osob. Zdzwonilismy sie online, zrobilismy brainstorming, kazdy dal kilka pomyslow na biznes, wybralismy jeden i zaczelismy dzialać. Jest to nieustanny proces uczenia się. I poświęcania wielu godzin na wykonywanie wczesniej ustalonych celow. Natomiast mam nadzieje ze będzie warto. Tak czy siek spróbuje, gorzej juz nie bedzie.. Cała przygoda z własnym biznesem opisana krok po kroku jest w zakładce " My business story " 
 
 ## More Jekyll!
 
