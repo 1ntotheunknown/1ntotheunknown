@@ -28,22 +28,15 @@ Zaczynając swoją transformację wiedziałem, że moje ciało to nie jest jedyn
 
 Natomiast był jeden pozytyw z tego wszystkiego, poznałem kilka osob. Zdzwonilismy sie online, zrobilismy brainstorming, kazdy dal kilka pomyslow na biznes, wybralismy jeden i zaczelismy dzialać. Jest to nieustanny proces uczenia się. I poświęcania wielu godzin na wykonywanie wczesniej ustalonych celow. Natomiast mam nadzieje ze będzie warto. Tak czy siek spróbuje, gorzej juz nie bedzie.. Cała przygoda z własnym biznesem opisana krok po kroku jest w zakładce " My business story " 
 
-## More Jekyll!
+## My Big Dream and Bucket List
 
-### Lagrange
+Wielkim celem, o którym nie moge przestać myśleć jest wyruszenie w podróż po całej Europie mini vanem. 
+Natomiast, żeby to miało miejsce to musi się na to złożyć wiele czynników. Po pierwsze biznes, który zacząłem w tym roku musi zacząć zarabiać, abym takiego vana mógł kupić i pozwolić sobie na taka podróż. To jest zdecydowanie mój największy cl, ponieważ to wszystko co robie, robie aby być szczęśliwym. Nie wiem czy faktycznie to da mi szczęście, ale póki nie sprobuje to sie nei dowiem.. Wiecej info w zakładce " The BiG Journey " 
 
-Lagrange is a minimalist Jekyll blog theme that I built from scratch. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog.
+Istnieje też wiele mniejszych bardziej przyziemnych celów na mojej bucket liscie. I bede skrupulatnie do nich dazyc. Natomiast do tego tez, kilka poprzednich krokow musi sie udać. Ten najważniejszy to właśnie biznes, bo bez pieniedzy, to ja sobvie moge co najwyzej powymyslac kolejne rzeczy, ktore chcialbym zrobic. 
 
-Feel free to check out <a href="https://lenpaul.github.io/Lagrange/" target="_blank">the demo</a>, where you’ll also find instructions on <a href="https://lenpaul.github.io/Lagrange/journal/getting-started.html">how to use install</a> and use the theme.
+## People That Inspire Me
 
-### Portfolio Jekyll Theme
+Bardzo ważnym punktem programu w mojej transformacji są ludzie, którzy mnie otaczaja i inspirują. Nie posiadam, żadnych inspiracji z internetu, wszyscy ludzie, ktorych opisuje w tej zakladce na blogu, to osoby, ktore znam i na własne oczy widze ich codzienne wysilki. To, że mam w to wglad dodaje mi skrzydel kiedy mi sie nie chce. 
 
-This is a Jekyll theme built using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). The purpose of this theme is to provide a clean and simple website for your portfolio. Emphasis is placed on your projects, which are shown front and center on the home page.
-
-Everything that you will ever need to know about this Jekyll theme is included in [the repository](https://github.com/LeNPaul/portfolio-jekyll-theme), which you can also find in [the demo site](https://lenpaul.github.io/portfolio-jekyll-theme/).
-
-### Jekyll Starter Kit
-
-The Jekyll Starter Kit is a simple framework for starting your own Jekyll project using all of the best practices that I learned from building my other Jekyll themes.
-
-Feel free to check out <a href="https://github.com/LeNPaul/jekyll-starter-kit" target="_blank">the GitHub repository</a>, where you’ll also find instructions on how to use install and use the theme.
+# Byle krok po kroku
