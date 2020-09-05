@@ -8,7 +8,7 @@ google-ID: 'UA-176387624-1'
 
 menu:
 - {name: 'My body transformation', folder: 'pages', file: 'MBT.html'}
-- {name: 'My business story', folder: 'pages', file: 'resources.html'}
+- {name: 'My business story', folder: 'pages', file: 'My_Business_story'}
 - {name: 'The BIG journey', folder: 'pages', file: 'sample-posts.html'}
 - {name: 'My bucket list', folder: 'pages', file: 'documentation.html'}
 - {name: 'People that inspire me', folder: 'pages', file: 'about.html'}
