@@ -7,7 +7,7 @@ disqus:
 google-ID: 'UA-176387624-1'
 
 menu:
-- {name: 'My body transformation', folder: 'pages', file: 'facts.html'}
+- {name: 'My body transformation', folder: 'pages', file: 'MBT.html'}
 - {name: 'My business story', folder: 'pages', file: 'resources.html'}
 - {name: 'The BIG journey', folder: 'pages', file: 'sample-posts.html'}
 - {name: 'My bucket list', folder: 'pages', file: 'documentation.html'}
