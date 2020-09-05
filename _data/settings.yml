@@ -9,7 +9,7 @@ google-ID: 'UA-176387624-1'
 menu:
 - {name: 'My body transformation', folder: 'pages', file: 'MBT.html'}
 - {name: 'My business story', folder: 'pages', file: 'My_Business_story'}
-- {name: 'The BIG journey', folder: 'pages', file: 'The_BiG_Journey'}
+- {name: 'The BIG journey', folder: 'pages', file: 'The_BIG_Journey'}
 - {name: 'My bucket list', folder: 'pages', file: 'My_bucket_list.html'}
 - {name: 'People that inspire me', folder: 'pages', file: 'People_that_Inspire_me.html'}
 - {name: 'My biggest f**kups', folder: 'pages', file: 'My_Biggest_f**kups.html'}
