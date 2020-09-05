@@ -10,9 +10,9 @@ menu:
 - {name: 'My body transformation', folder: 'pages', file: 'MBT.html'}
 - {name: 'My business story', folder: 'pages', file: 'My_Business_story'}
 - {name: 'The BIG journey', folder: 'pages', file: 'The_BiG_Journey'}
-- {name: 'My bucket list', folder: 'pages', file: 'documentation.html'}
-- {name: 'People that inspire me', folder: 'pages', file: 'about.html'}
-- {name: 'My biggest f**kups', folder: 'pages', file: 'contact.html'}
+- {name: 'My bucket list', folder: 'pages', file: 'My_bucket_list.html'}
+- {name: 'People that inspire me', folder: 'pages', file: 'People_that_Inspire_me.html'}
+- {name: 'My biggest f**kups', folder: 'pages', file: 'My_Biggest_f**kups.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
