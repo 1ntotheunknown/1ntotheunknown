@@ -2,7 +2,7 @@
 layout: post
 title: "What motivated me to My Body and Business Transformation!"
 author: "T"
-categories: sample
+categories: [sample,People_that_Inspire_me.html]
 tags: sample
 image: zmiana.png
 ---
