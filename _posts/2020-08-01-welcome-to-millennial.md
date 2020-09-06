@@ -3,7 +3,7 @@ layout: post
 title: "What motivated me to My Body and Business Transformation!"
 author: "T"
 categories: documentation
-tags: [documentation,sample]
+tags: sample
 image: zmiana.png
 ---
 
