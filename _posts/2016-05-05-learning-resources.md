@@ -10,10 +10,10 @@ image: arctic-4.jpg
 ##Each of us should have dreams. Mine are listed below. However, these are minor dreams. The main dream is described The BIG Dream tab.
 
 - Earn 1 Billion
-- Get yourself a belly heater
+- Get myself a 6 pack
 - Make a photo shoot as a model
 - Pass a motorbike driving license
-- Buy a motor cafe racer
+- Buy a motor - cafe racer
 - Run the official race at a distance of 5k
 - Run an official run of 10k
 - Run the official run: Half Marathon
@@ -22,7 +22,7 @@ image: arctic-4.jpg
 - Run the official distance run: Iron Man
 - Take a bath in the waterfall
 - Jump with a parachute
-- Break your fear to dance
+- Overcome my fear to dance
 - Go to Tomorrowland
 - Go to Burning Man
 - Learn Russian
