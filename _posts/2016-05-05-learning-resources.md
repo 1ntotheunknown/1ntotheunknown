@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Learning Resources"
-author: "Paul Le"
-categories: resources
+title: "My Bucket List"
+author: "T"
+categories: [documentation,My_bucket_list.html]
 tags: [documentation,sample]
 image: arctic-4.jpg
 ---
