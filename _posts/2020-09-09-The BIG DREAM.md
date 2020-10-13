@@ -4,7 +4,7 @@ title: "The BIG DREAM - vision"
 author: "T"
 categories: sample
 tags: [sample]
-image: arctic-1.jpg
+image: underwater.jpg
 ---
 
 # What is this big dream?
