@@ -4,7 +4,7 @@ title: "My Bucket List"
 author: "T"
 categories: [documentation,My_bucket_list.html]
 tags: [documentation,sample]
-image: arctic-4.jpg
+image: Bucket list.jpeg
 ---
 
 ##Each of us should have dreams. Mine are listed below. However, these are minor dreams. The main dream is described The BIG Dream tab.
