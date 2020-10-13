@@ -18,4 +18,4 @@ The plan is ambitious to set off on a trip around Europe in a self-built van in 
 When I was little, my parents used to take me on trips by plane to other countries. However, over the years, I do not remember anything. I totally changed my approach to traveling. I need to see all these places from a different perspective, without rush, without chasing flight dates or hotel bookings. If I find a country very interesting, I will just stay there longer. I've always been a loner so I guess that's what I'm looking for.
 
 
-# We dream too much about making our dreams come true. I have lived this way for a very long time. time to change it. Just take it step by step and never stop.
+# We dream too much about making our dreams come true. I have lived this way for a very long time. Time to change it. Just take it step by step and never stop.
