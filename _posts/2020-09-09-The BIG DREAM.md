@@ -9,7 +9,7 @@ image: campervanvsmotorcycle-grid.jpg
 
 # What is this big dream?
 
-The plan is ambitious to set off on a trip around Europe in a self-built van in January 2022. We'll see how it works, but he's also planning to attach a frame to the van to support the motorcycle. Mobility above all. Where I cannot get by van, I will gladly go on a motorbike :)
+The plan is to set off on a trip around Europe in a self-built van in January 2022. We'll see how it works, but I am also planning to attach a frame to the van to support the motorcycle. Mobility above all. Where I cannot get by van, I will gladly go on a motorbike :)
 
 ## Where did the idea for such a trip come from?
 
