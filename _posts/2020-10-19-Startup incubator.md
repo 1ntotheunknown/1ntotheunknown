@@ -4,7 +4,7 @@ title: "Startup Incubator"
 author: "T"
 categories: resources
 tags: [resources]
-image: 
+image: startup.png
 ---
 
 # How I got to the incubator
